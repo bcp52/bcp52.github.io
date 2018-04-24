@@ -1,0 +1,45 @@
+.navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
+.navbar li {
+	float: right;
+}
+
+.navbar li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+.navbar li a:hover {
+	border: 1px solid white;
+	background-color: #7f0000;
+}
+
+body {
+	margin: 0px;
+	background-image: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("Folder.jpg");
+	background-size: 100%;
+}
+
+h1 {
+	margin-left: 11%;
+	margin-top: 10%;
+	font-size: 80px;
+}
+
+.projects {
+	margin-left: 15%;
+	width: 75%;
+	margin-top: 12%;
+	font-size: 40px;
+	text-align: center;
+}

@@ -1,0 +1,48 @@
+.navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+	position: fixed;
+	width: 100%;
+}
+
+.navbar li {
+	float: right;
+}
+
+.navbar li a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+.navbar li a:hover {
+	border: 1px solid white;
+	background-color: #7f0000;
+}
+
+body {
+	margin: 0px;
+	background-image: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("Fancy.jpg");
+	background-size: 100%;
+}
+
+.gallery {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 9%;
+    border: 2px solid black;
+    float: left;
+    display: block;
+    height: 360px;
+}
+
+.gallery img {
+	width: 520px;
+	height: 100%;
+}

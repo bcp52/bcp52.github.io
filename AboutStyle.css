@@ -1,0 +1,91 @@
+.navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+	position: fixed;
+	width: 100%;
+}
+
+.navbar li {
+	float: right;
+}
+
+.navbar li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+.navbar li a:hover {
+	border: 1px solid white;
+	background-color: #7f0000;
+}
+
+body {
+	margin: 0;
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(Sunrise.jpg);
+	background-size: cover;
+}
+
+
+.sidebar {
+	list-style-type: none;
+	margin:0;
+	margin-top: 2.25%;
+	padding:0;
+	width:180px;
+	background-color: white;
+	position: fixed;
+	text-decoration:none;
+}
+
+.sidebar li a{
+	display: block;
+	color: green;
+	text-decoration:none;
+	padding: 8px 16px;
+	border-bottom: 1px solid #555;
+}
+
+.sidebar li a:hover{
+	color: white;
+	background-color: green;
+	text-decoration:none;
+}
+
+.bio {
+	text-align: center;
+	color: white;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	text-decoration: underline;
+	font-size: 32px;
+}
+
+p {
+	text-align: left;
+	margin-left: 20%;
+	font-size: 20px;
+}
+
+img {
+	float: left;
+	width:320px;
+	height:400px;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 2%;
+}
