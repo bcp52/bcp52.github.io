@@ -26,7 +26,7 @@
 
 body {
 	margin: 0px;
-	background-image: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("Folder.jpg");
+	background-image: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("Images/Folder.jpg");
 	background-size: 100%;
 }
 

@@ -28,7 +28,7 @@
 
 body {
 	margin: 0px;
-	background-image: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("Fancy.jpg");
+	background-image: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("Images/Fancy.jpg");
 	background-size: 100%;
 }
 

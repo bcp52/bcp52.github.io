@@ -27,7 +27,7 @@
 
 body {
 	margin: 0px;
-	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(BackgroundPic.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(Images/BackgroundPic.jpg);
 	background-size: cover;
 }
 
